@@ -1,0 +1,8 @@
+emby_path=/usr/local/lib/emby-server/bin/ffdetect
+emby_config=/usr/local/etc/rc.d/emby-server
+emby_url=
+version_cmd=
+pid_file=/var/run/emby-server.pid
+start_cmd=service emby-server start
+stop_cmd=service emby-server stop
+restart_cmd=service emby-server restart

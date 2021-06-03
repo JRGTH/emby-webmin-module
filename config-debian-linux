@@ -1,0 +1,8 @@
+emby_path=
+emby_config=
+emby_url=
+version_cmd=
+pid_file=
+start_cmd=
+stop_cmd=
+restart_cmd=

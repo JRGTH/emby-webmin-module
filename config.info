@@ -1,0 +1,9 @@
+line1=Configurable options,11
+emby_path=Full path to Emby program,0
+emby_config=Full path to Emby RC file,0
+emby_url=Emby Server URL,0
+version_cmd=Command for Emby version,0
+pid_file=Full path to Emby PID file,3,None,29
+start_cmd=Command to start Emby,0
+restart_cmd=Command to restart Emby,0
+stop_cmd=Command to stop Emby,0

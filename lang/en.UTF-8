@@ -1,0 +1,26 @@
+index_title=Emby Server
+index_econfig=The Emby server rc file $1 was not found on your system. Maybe Emby is not installed, or your <a href='$2'>module configuration</a> is incorrect.
+index_eemby=The Emby server program $1 was not found on your system. Maybe Emby is not installed, or your <a href='$2'>module configuration</a> is incorrect.
+index_return=module index
+index_apply=Apply Changes
+index_applymsg=Click this button to apply the current configuration to the running Emby process.
+index_applymsg2=Click this button to apply the current configuration with the command $1.
+index_start=Start Server
+index_startmsg=Click to start Emby Server.
+index_stop=Stop Server
+index_restart=Restart Server
+index_restartmsg=Click to restart Emby Server.
+index_stopmsg=Click to stop Emby Server.
+index_version=$1
+index_colitem=Service
+index_colinfo=Process
+index_colstat=Status
+index_embyver=Emby version
+index_embystat=Emby
+index_dlnastat=DLNA
+index_tunerstat=Tuner
+index_infopid=Process id:
+index_modver=Version
+start_err=Failed to start Emby Server
+stop_err=Failed to stop Emby Server
+restart_err=Failed to restart Emby Server
